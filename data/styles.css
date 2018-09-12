@@ -19,8 +19,6 @@
 }
 .placeholder {
 }
-.button {
-}
 .primary_button {
   color:#FFFFFF;
 }
@@ -77,10 +75,12 @@
 ._连接线 {
   color:#FF0000;
 }
-._图片 {
-  color:#000000;
-}
 .line {
 }
-._图片1 {
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+._图片 {
+  color:#000000;
 }
